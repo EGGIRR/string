@@ -1,0 +1,14 @@
+{
+    "name": "eggirr/string",
+    "description": "library for working with strings",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "eggirr",
+            "email": "vlad.grishanenko.g@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
